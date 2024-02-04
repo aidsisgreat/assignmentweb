@@ -1,0 +1,66 @@
+/* Name: Adithyan.Jyothish.Nair Student Number:8981148 */
+body{
+    width: auto;
+    max-width: fit-content;
+    margin: auto;
+    font: 16px/1.5 cursive;
+    padding: 11px;
+    
+}
+.ok{
+    border: 5px black solid;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto;
+    clear: both;
+    
+
+}
+h1{
+    color: purple;
+    font-variant: small-caps;
+}
+h2{
+    color: indigo;
+    font-variant: small-caps;
+}
+footer p{
+    font-size: small;
+    color: rgb(239, 12, 129);
+}
+main{
+    float: left;
+    padding: 4px;
+    margin: 5px;
+    width: 60%;
+}
+aside{
+    float: right;
+    padding: 2px;
+    margin: 3px;
+    width: 36%;
+    
+}
+img{
+    border: 4px color(black red green blue);
+}
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: large;
+}
+ul li{
+    list-style: none;
+    line-height: 20px;
+}
+ul>li>a{
+    text-decoration: none;
+    color: blueviolet;
+}
+aside a:hover{
+    color: orange;
+}
